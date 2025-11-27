@@ -1,4 +1,6 @@
+Prerequisites
 To install, you must have traceroute installed
+pip install sqlite
 
 sudo apt-get install traceroute
 
